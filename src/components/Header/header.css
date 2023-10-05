@@ -1,0 +1,15 @@
+.header-menu {
+    background-color: #D988B9;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+.img-logo{
+    width: 4%;
+}
+
+h3{
+    display: flex;
+    align-items: center;
+}
